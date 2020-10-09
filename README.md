@@ -18,7 +18,7 @@ This guide also utilizes PHP to send the notification data to Apple.
 
 FOLLOW THE YOUTUBE VIDEO to get setup https://www.youtube.com/watch?v=_3YlqWWnI6s
 
-#### PEM File Certificate Code
+#### Create PEM File Certificate Code
 
 > Step 0: (FOLLOW THE YOUTUBE VIDEO to get certificates )
 
